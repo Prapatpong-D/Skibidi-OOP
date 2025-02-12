@@ -62,5 +62,6 @@ public class Customer {
 
     int getNumOfAccount() {
         return this.acct.size();
+        //return this.numOfAccount;
     }
 }
