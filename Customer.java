@@ -6,6 +6,7 @@ public class Customer {
     private String firstName;
     private String lastName;
     private ArrayList<Account> acct;
+    //private Account acct;
     private int numOfAccount;
     
     public Customer(){
